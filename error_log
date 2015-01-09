@@ -1,0 +1,1 @@
+[16-Dec-2014 17:51:30 UTC] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/puneet9/public_html/shipping/application/controllers/admin/welcome.php on line 30
